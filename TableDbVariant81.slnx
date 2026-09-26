@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TableDbEngine/TableDbEngine.csproj" />
+  <Project Path="TableDbWeb/TableDbWeb.csproj" />
+</Solution>

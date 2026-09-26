@@ -1,0 +1,12 @@
+/workspaces/Table-Variant81/TableDbEngine/bin/Debug/net10.0/TableDbEngine.deps.json
+/workspaces/Table-Variant81/TableDbEngine/bin/Debug/net10.0/TableDbEngine.dll
+/workspaces/Table-Variant81/TableDbEngine/bin/Debug/net10.0/TableDbEngine.pdb
+/workspaces/Table-Variant81/TableDbEngine/obj/Debug/net10.0/TableDbEngine.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Table-Variant81/TableDbEngine/obj/Debug/net10.0/TableDbEngine.AssemblyInfoInputs.cache
+/workspaces/Table-Variant81/TableDbEngine/obj/Debug/net10.0/TableDbEngine.AssemblyInfo.cs
+/workspaces/Table-Variant81/TableDbEngine/obj/Debug/net10.0/TableDbEngine.csproj.CoreCompileInputs.cache
+/workspaces/Table-Variant81/TableDbEngine/obj/Debug/net10.0/TableDbEngine.sourcelink.json
+/workspaces/Table-Variant81/TableDbEngine/obj/Debug/net10.0/TableDbEngine.dll
+/workspaces/Table-Variant81/TableDbEngine/obj/Debug/net10.0/refint/TableDbEngine.dll
+/workspaces/Table-Variant81/TableDbEngine/obj/Debug/net10.0/TableDbEngine.pdb
+/workspaces/Table-Variant81/TableDbEngine/obj/Debug/net10.0/ref/TableDbEngine.dll

@@ -1,0 +1,6 @@
+@TableDbWeb_HostAddress = http://localhost:5178
+
+GET {{TableDbWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
